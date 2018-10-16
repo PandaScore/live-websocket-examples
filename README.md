@@ -1,8 +1,11 @@
+
+![PandaScore](https://pandascore.co/logo.png)
+
 # Live WebSocket examples
 
 ### Basic example
 
-A very basic example, connecting to a match websocket stream and printing the live frames.
+A very basic (30 lines) example, connecting to a match websocket stream and printing the live frames.
 
 #### Running
 
