@@ -15,7 +15,7 @@ ruby basic.rb MATCH_ID YOUR_PANDASCORE_TOKEN
 
 #### Example
 
-```json
+```ruby
 $ ruby basic.rb 57877 XXXXXXXXXXXXXYYYYYYYYYYY-ZZZZZZZZZZZZZZZZZZZZZZZZZZ
 Connected
 received 103b
